@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pth
+checkpoints/
+samples/
+results/
+datasets/**/*.zip
+datasets/demo_summer_winter/
+.venv/
+venv/
